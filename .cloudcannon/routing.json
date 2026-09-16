@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "match": "**",
+      "match": "*",
       "headers": [
         {
           "name": "Access-Control-Allow-Origin",
